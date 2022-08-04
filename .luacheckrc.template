@@ -193,7 +193,8 @@ stds.polyzone = {
 
 stds.undefinednatives = {
     read_globals = {
-        "N_0x32f34ff7f617643b"
+        "N_0x32f34ff7f617643b",
+        "N_0x283978a15512b2fe"
     }
 }
 
