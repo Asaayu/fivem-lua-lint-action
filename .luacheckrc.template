@@ -197,6 +197,13 @@ stds.undefinednatives = {
     }
 }
 
+stds.system = {
+    read_globals = {
+        "env",
+        "f"
+    }
+}
+
 stds.menuv = {
     read_globals = {
         MenuV = {
