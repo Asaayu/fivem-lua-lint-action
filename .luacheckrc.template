@@ -191,32 +191,9 @@ stds.polyzone = {
     }
 }
 
-stds.qblocales = {
+stds.undefinednatives = {
     read_globals = {
-        Locale = {
-            fields = {
-                "new",
-                "extend",
-                "clear",
-                "replace",
-                "locale",
-                "t",
-                "has",
-                "delete",
-            }
-        }
-    }
-}
-
-stds.qbgarages = {
-    read_globals = {
-        "Garages"
-    }
-}
-
-stds.qbapartments = {
-    read_globals = {
-        "Apartments"
+        "N_0x*"
     }
 }
 
