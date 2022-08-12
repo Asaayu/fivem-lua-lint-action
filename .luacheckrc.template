@@ -91,8 +91,10 @@ stds.cfx_cl = {
         LocalPlayer = {
             fields = {
                 state = {
+                    read_only = false,
                     other_fields = true,
                     fields = {
+                        "loaded",
                         "set",
                         "isLoggedIn",
                     }
